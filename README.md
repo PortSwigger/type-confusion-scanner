@@ -6,7 +6,7 @@ This Burp Extension was created by Certus Cybersecurity to help find type confus
 
 This extension complements Burp's active scanner by substituting integer and booleean JSON values with their string equivalents to check if variable types are being checked on the server's side.
 
-For more information, please refer to the blogpost at https://certuscybersecurity.com/!!!!!!!!
+For more information, please refer to the blogpost, that will be linked here soon.
 
 Contributions and feature requests are welcome.
 
