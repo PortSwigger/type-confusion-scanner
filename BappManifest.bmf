@@ -1,0 +1,13 @@
+Uuid: 68869d4e6aff47ff99741954e9f087e7
+ExtensionType: 2
+Name: Type Confusion Scanner
+RepoName: type-confusion-scanner
+ScreenVersion: 1.0
+SerialVersion: 1
+MinPlatformVersion: 0
+ProOnly: True
+Author: certuscyber
+ShortDescription: Compares HTTP response codes (200, 500, etc) when altering the
+EntryPoint: extension.py
+BuildCommand: 
+SupportedProducts: Pro
