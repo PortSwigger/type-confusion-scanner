@@ -9,7 +9,7 @@ For more information, please refer to the blogpost, that will be linked here soo
 
 This extension complements Burp's active scanner by substituting integer and booleean JSON values with their string equivalents to check if variable types are being checked on the server's side.
 
-Any JSON body in HTTP request will be re-submitted with with the string equivalent:
+Any JSON body in HTTP request will be re-submitted with the string equivalent:
 ```
 {
     "id":34,
