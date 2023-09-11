@@ -3,7 +3,7 @@ ExtensionType: 2
 Name: Type Confusion Scanner
 RepoName: type-confusion-scanner
 ScreenVersion: 1.0
-SerialVersion: 1
+SerialVersion: 2
 MinPlatformVersion: 0
 ProOnly: True
 Author: certuscyber
